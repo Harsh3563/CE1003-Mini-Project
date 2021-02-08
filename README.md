@@ -1,4 +1,4 @@
-# CE1013-Mini-Project
+# CE1003-Mini-Project
 
 - A Python-based real-time canteen information system for NTU's North Spine Canteen that gives information on all stalls (their operating hours, menus, current status (open/closed), cuisine etc.) and calculates estimated waiting time for a chosen stall (considering the current queue).
 
